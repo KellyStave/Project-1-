@@ -31,4 +31,18 @@ Bottom 5 counties that are least affected in our timeframe are Sierra, Alpine, T
 
 ![Least Affected](./images/bottom_counties_deaths.png)
 
+## Covid Timeline Analysis
+Despite a lockdown renewed on December 3rd in California, the cases grew dramatically during the holiday season. This makes sense assuming people are shopping, traveling and coming in contact with more people during this time.
+
+During the surge, the biggest dip in daily cases was on December 25th, 2020. We conclude that people did not check, themselves in  because of Christmas. This leads to the highest number of cases recorded the following day on December 26th, 2020. The day after Christmas day recorded 64,986 new covid cases.
+![Holiday Daily Cases](./images/holiday_daily_cases.png)
+
+The growth of Covid cases and low vaccine distributions results to an increase in deaths in the early months of 2021. The spike in deaths reaching 1,084 deaths on February 24th, 2022.
+
+![Calidronia Covid Deaths](./images/california_covid_deaths)
+
+In early 2021 vaccines become more available and accoring to CBS news 20 million Californians are partially or fully vaccinated as of May 28th 2021. With more people getting vaccinated the timeline of Covid Cases shows cumilitive cases flattening in between February and March. 
+
+![California Covid Cases](./images/california_covid_cases.png)
+
 

@@ -17,11 +17,15 @@ Shortened the dataset to focus on  California’s 58 counties from July 1st, 202
 
 ## Most Affected Counties
 
+Top 5 counties that are mostly affected in our timeframe are Los Angeles, San Bernardino, Riverside, San Diego and Orange. 
+
 ![Most Affected](./Images/top_counties_cases.PNG)
 
 ![Most Affected](./Images/top_counties_deaths.PNG)
 
 ## Least Affected Counties
+
+Bottom 5 counties that are least affected in our timeframe are Sierra, Alpine, Trinity, Mariposa and Modoc.
 
 ![Least Affected](./Images/bottom_counties_cases.PNG)
 

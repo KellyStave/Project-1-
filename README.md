@@ -16,6 +16,31 @@ Reference data set: https://www.kaggle.com/datasets/fireballbyedimyrnmom/us-coun
 
 Shortened the dataset to focus on  California’s 58 counties from July 1st, 2020 through June 30, 2021.
 
+# State Analysis
+
+Date Range: July 1st, 2020 through June 30, 2021
+Total Number of Cases in State of California  : 3580246
+Total Number of Deaths in State of California  : 58030
+Ratio of Total Number Deaths to Total Number of Cases is shown through a pie chart.
+
+![image](https://user-images.githubusercontent.com/113163234/204974639-ba8c72eb-1ae5-4f9f-9958-2a0aca3367f6.png)
+
+# County Death Rate
+
+Calculated Death Rate = Total Number of Deaths/Total Number of cases
+
+County with Max Death Rate : Imperial County with 2.8%,
+County with Min Death Rate: Alpine and Sierra County with 0.0% 
+![image](https://user-images.githubusercontent.com/113163234/204974877-24216963-252e-4efe-afa3-113f5bb5de68.png)
+
+Top 5 County Death Rate :
+
+Imperial County : 2.87%
+Alameda County : 1.85%
+Orange County : 1.844%
+Shasta County: 1.842%
+Los Angeles County : 1.841%
+
 ## Most Affected Counties
 
 Top 5 counties that are mostly affected in our timeframe are Los Angeles, San Bernardino, Riverside, San Diego and Orange. All of these counties are in Southern California.

@@ -54,11 +54,10 @@ During the surge, the biggest dip in daily cases was on December 25th, 2020. We 
 
 The growth of Covid cases and low vaccine distributions results to an increase in deaths in the early months of 2021. The spike in deaths reaching 1,084 deaths on February 24th, 2022.
 
-![Califonia Covid Deaths](./images/california_covid_deaths)
+![Califonia Covid Deaths](./images/california_covid_deaths.png)
 
 In early 2021 vaccines become more available and accoring to CBS news 20 million Californians are partially or fully vaccinated as of May 28th 2021. With more people getting vaccinated the timeline of Covid Cases shows cumilitive cases flattening in between February and March. 
 
 ![California Covid Cases](./images/california_covid_cases.png)
 
 
-9

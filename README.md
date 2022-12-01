@@ -1,3 +1,12 @@
+## Overview of Repo
+Project_1_covid_timeline holds the data filtered and created to creat the overall timeline.
+Project_1_covid_top_bottom_county holds tje code seperating the data into counties to retrieve top 5 and bottom 5 counties
+state_analysis holds the code for count of max cases and
+weekly_covid _analysis shows the code breaking down the data into weeks and counties to note changes within weeks
+Weekly analysis holds all parts (images and code) of the data split into quarters
+This ReadMe file also includes our written analysis split into topics assigned.
+
+
 # Analysis  of COVID in California
 
 ## Questions to answer

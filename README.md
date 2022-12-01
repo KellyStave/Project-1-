@@ -60,4 +60,17 @@ In early 2021 vaccines become more available and accoring to CBS news 20 million
 
 ![California Covid Cases](./images/california_covid_cases.png)
 
+## Weekly COVID cases and death analysis
+Our data set began on July 1 2020 of note on June 15, 2020 51/58 counties in California had reopened with optional face coverings. 
+We see that beginning in July there was an increase in the number of new cases and deaths that continued into August. 
+
+On July 13 30 counties were again shut down due to the July increases, resulting in a decrease in new cases and deaths in August. This decrease in cases continued until September 16 when the lowest number of new cases was recorded. As a result of the decrease businesses were again allowed to reopen beginning in October. 
+
+In November we begin to see a sharp increase in number of new cases and deaths which continues through the end of 2020 nad into 2021. On November 16 all non-essential businesses in Los Angeles county are closed and the mask mandate is reinstated.
+
+On December 23 there Los Angeles county is at 0% capacity for ICU beds and there is a shortage of PPE, by December 26 the ICU bed shortage is statewide. This shortage paired with an O2 shortage negatively impacts survivability for those patients requiring ICU level care. 
+
+![New Weekly Cases](./images/NewCasesperWeek.png)
+![New Weekly Deaths](./images/NewDeathsperWeek.png)
+
 

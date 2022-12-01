@@ -6,6 +6,7 @@
 * When did COVID peak in California within the timeframe?
 * Which counties were most  affected by COVID?
 * Which counties were least affected by COVID?
+* Is there correlation between number of covid cases and population/area of the county?
 
 ## The Data Used
 
@@ -17,7 +18,7 @@ Shortened the dataset to focus on  California’s 58 counties from July 1st, 202
 
 ## Most Affected Counties
 
-Top 5 counties that are mostly affected in our timeframe are Los Angeles, San Bernardino, Riverside, San Diego and Orange. 
+Top 5 counties that are mostly affected in our timeframe are Los Angeles, San Bernardino, Riverside, San Diego and Orange. All of these counties are in Southern California.
 
 ![Most Affected](./images/top_counties_cases.png)
 

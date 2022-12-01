@@ -98,4 +98,27 @@ On December 23 there Los Angeles county is at 0% capacity for ICU beds and there
 ![New Weekly Cases](./images/NewCasesperWeek.png)
 ![New Weekly Deaths](./images/NewDeathsperWeek.png)
 
+## Weekly Analysis
+During the July 2020 to September 2020 quarter there is a steady increase in average cases and average deaths.
 
+![Average Cases July 2020 to September 2020](./Weekly Analysis/Average_cases_Q1.png)
+
+![Average Deaths July 2020 to September 2020](./Weekly Analysis/Average_deaths_Q1.png)
+
+From October 2020 to December 2020 cases rise over time with a steep increase starting the week of November 7th up to February 6th. The number of deaths have a steep increase between November 28th and March 13th.
+
+![Average Cases October 2020 to December 2020](./Weekly Analysis/Average_cases_Q2.png)
+
+![Average Deaths October 2020 to December 2020](./Weekly Analysis/Average_deaths_Q2.png)
+
+From January 2021 to March 2021 cases and deaths the cases rise steadily and plateau the week of February 6th, the deaths rise steadily the entire trimester.
+
+![Average Cases January 2021 to March 2021](./Weekly Analysis/Average_cases_Q3.png)
+
+![Average Deaths January 2021 to March 2021](./Weekly Analysis/Average_deaths_Q3.png)
+
+From April 2021 to June 2021 deaths and cases rise steadily, deaths dip slightly and don't increase between the weeks of May 29th and June 5th but deaths rise again after this period.
+
+![Average Cases April 2021 to June 2021](./Weekly Analysis/Average_cases_Q4.png)
+
+![Average Deaths April 2021 to June 2021](./Weekly Analysis/Average_deaths_Q4.png)

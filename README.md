@@ -1,3 +1,12 @@
+## Overview of Repo
+Project_1_covid_timeline holds the data filtered and created to creat the overall timeline.
+Project_1_covid_top_bottom_county holds tje code seperating the data into counties to retrieve top 5 and bottom 5 counties
+state_analysis holds the code for count of max cases and
+weekly_covid _analysis shows the code breaking down the data into weeks and counties to note changes within weeks
+Weekly analysis holds all parts (images and code) of the data split into quarters
+This ReadMe file also includes our written analysis split into topics assigned.
+
+
 # Analysis  of COVID in California
 
 ## Questions to answer
@@ -98,4 +107,24 @@ On December 23 there Los Angeles county is at 0% capacity for ICU beds and there
 ![New Weekly Cases](./images/NewCasesperWeek.png)
 ![New Weekly Deaths](./images/NewDeathsperWeek.png)
 
+## Weekly Analysis
+During the July 2020 to September 2020 quarter there is a steady increase in average cases and average deaths.
+
+![Average_cases_Q1](https://user-images.githubusercontent.com/115526589/204977608-88a3b43d-a360-4df1-9005-bf95e3b601d7.png)
+![Average_deaths_Q1](https://user-images.githubusercontent.com/115526589/204977647-fda009f1-9d3c-4d3a-aee9-2d47059e60e2.png)
+
+From October 2020 to December 2020 cases rise over time with a steep increase starting the week of November 7th up to February 6th. The number of deaths have a steep increase between November 28th and March 13th.
+
+![Average_cases_Q2](https://user-images.githubusercontent.com/115526589/204977682-4f0eace5-ef82-4f61-af04-24493b23c9cc.png)
+![Average_deaths_Q2](https://user-images.githubusercontent.com/115526589/204977708-1ebce217-0f0c-47ae-b4d4-64a25ae9c7f3.png)
+
+From January 2021 to March 2021 cases and deaths the cases rise steadily and plateau the week of February 6th, the deaths rise steadily the entire trimester.
+
+![Average_cases_Q3](https://user-images.githubusercontent.com/115526589/204977752-1b299964-7549-4f00-aacb-7df41c097a08.png)
+![Average_deaths_Q3](https://user-images.githubusercontent.com/115526589/204977784-a495ace6-b38f-456c-b551-aac9690c1dae.png)
+
+From April 2021 to June 2021 deaths and cases rise steadily, deaths dip slightly and don't increase between the weeks of May 29th and June 5th but deaths rise again after this period.
+
+![Average_cases_Q4](https://user-images.githubusercontent.com/115526589/204977822-156efe35-5486-4cba-b376-67664c8268de.png)
+![Average_deaths_Q4](https://user-images.githubusercontent.com/115526589/204977856-4db6df57-b127-4dea-aee9-b4f2fd0fdd11.png)
 
